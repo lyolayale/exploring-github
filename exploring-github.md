@@ -17,7 +17,7 @@
 - ls
 - history
 
-#Git Commands
+# Git Commands
 - git status
 - git add filename
 - git commit -m "detailed message communicating intent of commit" 
