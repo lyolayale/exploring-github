@@ -26,6 +26,6 @@
 
 # Git Push Work-Flow
 - git status
-- git add . or git add <filename>
+- git add . or git add `filename`
 - git commit -m "Detailed message."
-- git push origin <branch name>
+- git push origin `branch name`
