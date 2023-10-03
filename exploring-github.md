@@ -23,3 +23,9 @@
 - git commit -m "detailed message communicating intent of commit" 
 - git push origin branch-name
 - git pull origin branch-name
+
+# Git Push Work-Flow
+- git status
+- git add . or git add <filename>
+- git commit -m "Detailed message."
+- git push origin <branch name>
